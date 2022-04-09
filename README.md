@@ -1,2 +1,1 @@
-# katebi
-banzi katebistrolli saiti
+# banzi katebistrolli saiti
